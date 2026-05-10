@@ -8,8 +8,7 @@ This repository contains a comprehensive technical project for deploying a profe
 - **Site-to-Site Connectivity:** Secure IPsec VPN tunnels for permanent connection between Headquarter (HQ) and Branch Office (BR).
 - **Remote Access:** **IPsec VPN (Remote Access)** implementation for secure and high-performance remote workforce connectivity.
 - **Switching Infrastructure:** - Cisco EtherChannel (LACP) & VLAN segmentation.
-    - **Port Security:** MAC address filtering and violation policies to prevent unauthorized access.
-    - Spanning Tree (STP) hardening (BPDU Guard, Root Guard).
+- **Switching Infrastructure:** Cisco EtherChannel (LACP), VLAN segmentation, Port Security (MAC filtering), and STP hardening (BPDU/Root Guard).
 
 ## 📂 Repository Contents
 - **`Enterprise-SDWAN-Lab-Guide-Vu-Quang-Khai.pdf`**: Full technical report, IP planning, and configuration steps.
