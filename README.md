@@ -3,11 +3,13 @@
 This repository contains a comprehensive technical project for deploying a professional multi-site enterprise network. The lab is built on **Fortinet (FortiGate)** and **Cisco** platforms, focusing on SD-WAN optimization, high availability, and multi-layer security.
 
 ## 🚀 Key Technical Features
-- **Fortinet SD-WAN:** Traffic steering and failover between dual-ISP links (VNPT & FPT).
+- **Fortinet SD-WAN:** Advanced traffic steering and automatic failover between dual-ISP links (VNPT & FPT).
 - **Security Posture:** Layer 4-7 firewall policies, Web Filtering, Application Control, and IPv4 DoS protection.
-- **Site-to-Site Connectivity:** Secure IPsec VPN tunnels between Headquarter (HQ) and Branch Office (BR).
-- **Remote Access:** SSL VPN implementation for secure remote workforce connectivity.
-- **Switching Infrastructure:** Cisco EtherChannel (LACP), VLAN segmentation, and Spanning Tree (STP) hardening.
+- **Site-to-Site Connectivity:** Secure IPsec VPN tunnels for permanent connection between Headquarter (HQ) and Branch Office (BR).
+- **Remote Access:** **IPsec VPN (Remote Access)** implementation for secure and high-performance remote workforce connectivity.
+- **Switching Infrastructure:** - Cisco EtherChannel (LACP) & VLAN segmentation.
+    - **Port Security:** MAC address filtering and violation policies to prevent unauthorized access.
+    - Spanning Tree (STP) hardening (BPDU Guard, Root Guard).
 
 ## 📂 Repository Contents
 - **`Enterprise-SDWAN-Lab-Guide-Vu-Quang-Khai.pdf`**: Full technical report, IP planning, and configuration steps.
