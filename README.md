@@ -23,7 +23,7 @@ This repository contains a comprehensive technical project for deploying a profe
   - Windows/Linux nodes for end-point testing.
 
 ## 📖 How to Get Started
-1. **Import Lab:** Open your EVE-NG dashboard and upload the `.unl` files.
+1. **Import Lab:** Open your EVE-NG dashboard and upload the `.zip` files.
 2. **Setup Nodes:** Ensure you have the correct FortiGate and Cisco images named in the lab.
 3. **Follow the Guide:** Use the provided PDF guide to understand the network logic or to configure the initial topology from scratch.
 
