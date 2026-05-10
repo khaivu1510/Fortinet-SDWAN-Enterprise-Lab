@@ -10,7 +10,7 @@ This repository contains a comprehensive technical project for deploying a profe
 - **Switching Infrastructure:** Cisco EtherChannel (LACP), VLAN segmentation, and Spanning Tree (STP) hardening.
 
 ## 📂 Repository Contents
-- **`Enterprise-SDWAN-Lab-Guide.pdf`**: Full technical report, IP planning, and configuration steps.
+- **`Enterprise-SDWAN-Lab-Guide-Vu-Quang-Khai.pdf`**: Full technical report, IP planning, and configuration steps.
 - **`Lab_Completed.zip`**: Complete EVE-NG lab file with all settings applied. Ready for testing.
 - **`Lab_Uncompleted.zip`**: Clean topology file with no configurations. Best for practice and follow-along.
 
