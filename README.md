@@ -11,13 +11,13 @@ This repository contains a comprehensive technical project for deploying a profe
 
 ## 📂 Repository Contents
 - **`Enterprise-SDWAN-Lab-Guide.pdf`**: Full technical report, IP planning, and configuration steps.
-- **`Lab_Full_Configured.unl`**: Complete EVE-NG lab file with all settings applied. Ready for testing.
-- **`Lab_Initial_Topology.unl`**: Clean topology file with no configurations. Best for practice and follow-along.
+- **`Lab_Completed.zip`**: Complete EVE-NG lab file with all settings applied. Ready for testing.
+- **`Lab_Uncompleted.zip`**: Clean topology file with no configurations. Best for practice and follow-along.
 
 ## 🛠 Prerequisites
 - **Emulator:** EVE-NG (Community or Professional).
 - **Required Images:**
-  - FortiGate v7.x or higher.
+  - FortiGate v6.4.5.
   - Cisco IOL/vIOS (L2 and L3).
   - Windows/Linux nodes for end-point testing.
 
